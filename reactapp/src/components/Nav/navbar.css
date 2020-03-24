@@ -1,0 +1,61 @@
+
+#heading{
+    font-family:  'Georgia', Times, 'Times New Roman', 'serif';
+    background: #556270;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF6B6B, #556270);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF6B6B, #556270); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    /* s */
+}
+.main-header{
+    background: #556270;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF6B6B, #556270);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF6B6B, #556270); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    margin-top: 20px;
+    padding-right: 20px;
+    text-align: center;
+    width: 370px;
+    margin-bottom: 0px;
+    color:  #ffffff;
+    
+}
+
+.a_link{
+    color:#ffffff;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+
+@media screen and (min-width:320px) and (max-width:640px) {
+    .main-header{
+        width: 100%;
+        text-align:center;
+        
+        
+    }
+    #link_wrapper {
+        width: 100%;
+        left: 0px;
+        text-align: center;
+        word-spacing: 15px;
+        font-size: 18px; 
+        margin-top: -30px;   
+    }
+   
+         
+     
+     .P-img{
+         display: block;
+         float: none;
+         margin: 10px auto!important; 
+         left: 30px;
+         
+     }
+     .main{
+         width: 420px;
+     }
+
+
+}
