@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91114ef8.chunk.css",
+    "main.js": "/static/js/main.2579d61c.chunk.js",
+    "main.js.map": "/static/js/main.2579d61c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
+    "static/js/2.7bf98ef2.chunk.js": "/static/js/2.7bf98ef2.chunk.js",
+    "static/js/2.7bf98ef2.chunk.js.map": "/static/js/2.7bf98ef2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.86474d78d5cfbc5482a68662596ef7aa.js": "/precache-manifest.86474d78d5cfbc5482a68662596ef7aa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.91114ef8.chunk.css.map": "/static/css/main.91114ef8.chunk.css.map",
+    "static/js/2.7bf98ef2.chunk.js.LICENSE.txt": "/static/js/2.7bf98ef2.chunk.js.LICENSE.txt",
+    "static/media/devante.png": "/static/media/devante.a9a5368e.png",
+    "static/media/about.css": "/static/media/emokid.a96db189.png",
+    "static/media/project1.png": "/static/media/project1.7300a870.png",
+    "static/media/project2.png": "/static/media/project2.60a7f412.png",
+    "static/media/project3.png": "/static/media/project3.fe49abb9.png",
+    "static/media/project4.png": "/static/media/project4.85d471ac.png",
+    "static/media/project5.png": "/static/media/project5.fd219786.png",
+    "static/media/project6.png": "/static/media/project6.0c2fde8d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceaf4b5f.js",
+    "static/js/2.7bf98ef2.chunk.js",
+    "static/css/main.91114ef8.chunk.css",
+    "static/js/main.2579d61c.chunk.js"
+  ]
+}
