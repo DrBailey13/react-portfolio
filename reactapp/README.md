@@ -25,11 +25,11 @@ https://github.com/DrBailey13/react-portfolio/tree/master/reactportfolio
 
 ## Screenshots
 
-<img src="/Users/devantebailey/Class/Homework/MERN/Mern/practiceapp/portfolio/src/images/aboutme.png">
+<img src="/Users/devantebailey/Class/Projects/react-portfolio/reactapp/src/images/aboutme.png">
 
-<img src="/Users/devantebailey/Class/Homework/MERN/Mern/practiceapp/portfolio/src/images/contact.png">
+<img src="/Users/devantebailey/Class/Projects/react-portfolio/reactapp/src/images/portfolio.png">
 
-<img src="/Users/devantebailey/Class/Homework/MERN/Mern/practiceapp/portfolio/src/images/portfolio.png">
+<img src="/Users/devantebailey/Class/Projects/react-portfolio/reactapp/src/images/contact.png">
 
 ## Credits
 
@@ -63,4 +63,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
